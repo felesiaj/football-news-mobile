@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:football_news/menu.dart';
 
+
 void main() {
   runApp(const MyApp());
 }
